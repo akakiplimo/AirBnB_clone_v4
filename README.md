@@ -1,4 +1,7 @@
-# AirBnB Clone - RESTful API
+# AirBnB clone - Web dynamic
+This is the fourth segment of the AirBnB project at Holberton School
+
+## AirBnB Clone - RESTful API
 This is the third segment of the AirBnB project at Holberton School that looks at integrating a REST API to create, retrieve, update & delete a resource(s) from a storage point i.e. database
 
 ## AirBnB Clone - The Console
